@@ -4,7 +4,6 @@ using UnityEngine;
 public class Click : MonoBehaviour
 
 {
-
     [SerializeField] Transform target;
     float speed = 10f;
     Vector2 targetPos;
